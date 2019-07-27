@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a635da49-7fe5-43c4-bea2-8c3e8e391098/deploy-status)](https://app.netlify.com/sites/hw-mui-paperbase/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -5,9 +7,8 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby - Hello World - MaterialUI- Paperbase Theme
 </h1>
-
 
 
 ## 🚀 Quick start
