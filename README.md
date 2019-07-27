@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Antonoiu-Madalin/gatsby-box)
+
 # gatsby-box
 
 A box full of toys, from toddler to fully-grown up. Keeping all my workflow code in one place.
