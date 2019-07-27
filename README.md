@@ -1,5 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Antonoiu-Madalin/gatsby-box?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Antonoiu-Madalin/gatsby-box)
+![GitHub repo size](https://img.shields.io/github/repo-size/Antonoiu-Madalin/gatsby-box) ![GitHub top language](https://img.shields.io/github/languages/top/Antonoiu-Madalin/gatsby-box)
 
 # gatsby-box
 
