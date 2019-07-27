@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types';
 import Layout from '../components/layout'
 import Content from '../components/Content/Content.js';
 import {Link} from 'gatsby';
@@ -21,9 +20,6 @@ const IndexPage = () => {
   );
 };
 
-IndexPage.propTypes = {
-  classes: PropTypes.object.isRequired,
-};
 
 export default IndexPage;
 

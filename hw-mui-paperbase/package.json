@@ -31,6 +31,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "test":"gatsby build && gatsby serve",
     "clean": "rm -rf public && rm -rf .cache",
     "dev": "NODE_ENV=development rm -rf ./.cache && yarn && gatsby develop -H 0.0.0.0",
     "develop": "yarn dev",
