@@ -1,4 +1,4 @@
-![David (path)](https://img.shields.io/david/Antonoiu-Madalin/gatsby-box?path=%2Fhw-mui-paperbase) [![Netlify Status](https://api.netlify.com/api/v1/badges/a635da49-7fe5-43c4-bea2-8c3e8e391098/deploy-status)](https://app.netlify.com/sites/hw-mui-paperbase/deploys) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/hw-mui-paperbase.netlify.com?publish) ![Website](https://img.shields.io/website/https/hw-mui-paperbase.netlify.com)
+![David (path)](https://img.shields.io/david/Antonoiu-Madalin/gatsby-box?path=%2Fhw-mui-paperbase) [![Netlify Status](https://api.netlify.com/api/v1/badges/a635da49-7fe5-43c4-bea2-8c3e8e391098/deploy-status)](https://app.netlify.com/sites/hidden/deploys) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/hw-mui-paperbase.netlify.com?publish) ![Website](https://img.shields.io/website/https/hw-mui-paperbase.netlify.com)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
